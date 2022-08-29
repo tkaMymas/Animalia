@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+.navbg-colorC {
+    background-color: rgb(68, 44, 18);
+}
+
+.bg-contactos {
+    background-color: rgb(235, 235, 235)
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
