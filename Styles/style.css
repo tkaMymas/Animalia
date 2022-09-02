@@ -9,10 +9,3 @@ body {
 .bg-contactos {
     background-color: rgb(235, 235, 235)
 }
-
-footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-}
